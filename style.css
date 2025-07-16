@@ -91,3 +91,9 @@ footer {
     margin: 0.5rem 0;
   }
 }
+section:nth-child(even) {
+  background-color: #eef9ef;
+}
+section:nth-child(odd) {
+  background-color: #ffffff;
+}
