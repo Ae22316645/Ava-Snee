@@ -97,3 +97,14 @@ section:nth-child(even) {
 section:nth-child(odd) {
   background-color: #ffffff;
 }
+.button {
+  background-color: #3b6543;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.button:hover {
+  background-color: #2a4a31;
+}
