@@ -99,7 +99,7 @@ section:nth-child(odd) {
 }
 .button {
   background-color: #3b6543;
-  color: white;
+  color: greem;
   padding: 10px 20px;
   border-radius: 5px;
   text-decoration: none;
